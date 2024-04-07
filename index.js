@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Partner Yapıyor!","Anime İzliyor"];
+const statusMessages = ["İG=Yaprakdublaj!","Dublaj Yapıyor"];
 
 
 let currentIndex = 0;
